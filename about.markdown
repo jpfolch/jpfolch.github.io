@@ -5,7 +5,7 @@ permalink: /about/
 ---
 
 <p align="center">
-  <img src="/assets/images/profile_picture.png" width="300" />
+  <img src="/assets/images/profile_picture.jpg" width="300" />
 </p>
 
 My name is Jose Pablo Folch. I am a Mexican PhD Student at Imperial College London, under the supervision of [Ruth 
