@@ -4,3 +4,6 @@
 
 layout: home
 ---
+
+Welcome to my website! You can find some information about me, information about my research, and updates on events I 
+have attended as part of my PhD!

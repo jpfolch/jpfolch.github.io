@@ -1,0 +1,28 @@
+---
+layout: post
+title:  "AI for Social Good Seminar in Dagstuhl"
+date:   2022-03-07 17:03:52 +0100
+categories: seminar
+---
+<p align="center">
+  <img src="/assets/images/dagstuhl_group.jpg" width="400"/>
+</p>
+
+I had the opportunity to attend the AI for Social Good Seminar in the famous Computer Science venue, Schloss Dagstuhl! The aim of the the seminar 
+was to bring together machine learning experts from across the globe with data-savvy NGOs who were seeking to exploit AI and ML tools for social 
+good. We began by exchanging key ideas of the worlds of NGOs and ML to try and make sure we all understand the challenges faces by the NGOs, as 
+well as the opportunities and limitations that ML can bring.
+
+The food served by in Dagstuhl was delicious, especially the daily 3pm cake! The evenings were full of fun, with cheap German beer, board games, 
+and a little bit of dancing. Especially enjoyable was the company, wonderful people from all over the world.
+
+In the final days we carried out a hackathon. I focused on two projects: [Laterlite](https://www.laterite.com) wanted to improve their prediction 
+models for school dropout, and [AirQo](https://www.airqo.net) wanted to see if we could predict air pollution given a sparse array of sensors. Two 
+days was  not enough to do any considerable work, however, I hope we can carry on our collaboration and help them in the future!
+
+A link to the seminar's report can be found [here](https://drops.dagstuhl.de/opus/volltexte/2022/16934/). I also leave a picture of when we caught 
+chickens playing a chess tournament.
+
+<p align="center">
+  <img src="/assets/images/dagstuhl_chickens.jpeg" width="400"/>
+</p>
