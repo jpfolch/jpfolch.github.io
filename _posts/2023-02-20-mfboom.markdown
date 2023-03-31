@@ -1,0 +1,13 @@
+---
+layout: post
+title:  "New Computers & Chemical Engineering Publication"
+date:   2023-02-20 12:03:52 +0100
+categories: seminar
+---
+I am pleased to announce that our latest paper, "Combining Multi-Fidelity Modelling and 
+Asynchronous Batch Bayesian Optimization" has been accepted into the latest issue of the 
+journal Computers & Chemical Engineering. The link to the publication can be found 
+[here](https://www.sciencedirect.com/science/article/pii/S0098135423000637). We also made 
+videos detailing the work, both a [short](https://www.youtube.com/shorts/CSC0GvspJfU) and a 
+[long](https://www.youtube.com/watch?v=JQB3nlhMfoA) version.
+

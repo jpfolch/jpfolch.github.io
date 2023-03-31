@@ -1,0 +1,14 @@
+---
+layout: post
+title:  "AIChE Conference 2022 Talk"
+date:   2022-11-18 12:03:52 +0100
+categories: seminar
+---
+I was pleased to present SnAKe at the annual AIChE (American Institute of Chemical Engineers) 
+conference, in Phoenix, AZ, USA. There were a lot of interesting talks about combining 
+Chemical Engineering with Machine Learning, and I was able to meet many interesting people! I 
+am looking forward to attend more conferences in the near future.
+
+<p align="center">
+  <img src="/assets/images/AIChE_photo.JPG" width="450"/>
+</p>

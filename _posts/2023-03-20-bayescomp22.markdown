@@ -1,0 +1,19 @@
+---
+layout: post
+title:  "BayesComp 2023"
+date:   2023-03-20 12:03:52 +0100
+categories: seminar
+---
+I recently return from Levi, Finland, where I attended BayesComp 2023. The conference 
+explored the latest Bayesian computational methods, such as MCMC and variational Bayes. It 
+was very fun to get to learn about the latest research, see how it is applied to 
+the real world, and to catch up with some friends. The conference is also colloquially known 
+as MCMSki, as the conference centre 
+was in the middle of a ski resort! During my time there, I took the opportunity to learn to 
+snowboard and to see the aurora borealis.
+
+<p align="center">
+  <img src="/assets/images/bayescomp22_1.JPG" width="400"/>
+  <img src="/assets/images/bayescomp22_2.JPG" width="400"/>
+</p>
+
