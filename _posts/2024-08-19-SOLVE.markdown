@@ -1,0 +1,15 @@
+---
+layout: post
+title:  "I have joined SOLVE Chemistry as co-founder and CSO"
+date:   2024-08-19 12:03:52 +0100
+categories: seminar
+---
+
+<p align="center">
+  <img src="/assets/images/solve_team_pic.jpg" width="400"/>
+</p>
+
+
+Excited to announce I have joined [SOLVE Chemistry](https://www.solvechemistry.com) as co-founder and CSO! Founded by [Linden Schrecker](https://www.linkedin.com/in/linden-schrecker/) and backed by [Creator Fund](https://thecreatorfund.com), [Chemovator](https://www.chemovator.com), and [Imperial College](https://www.imperial.ac.uk); SOLVE is a company specializing in improving chemical processes through innovative data collection and machine learning approaches. I am looking forward to applying all I researched and learnt during my PhD to help the chemical industry become more efficient.
+
+

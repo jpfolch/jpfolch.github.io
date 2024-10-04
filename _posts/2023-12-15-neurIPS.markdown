@@ -1,0 +1,20 @@
+---
+layout: post
+title:  "NeurIPS 2023"
+date:   2023-12-15 12:03:52 +0100
+categories: seminar
+---
+
+I had an amazing time at NeurIPS 2023 in New Orleans. I presented two different workshop papers, the first one at the "Adaptive Experimental Design and Active Learning in the Real World" workshop related to extending SnAKe to more practical settings, including: self-stopping optimization, multi-objective optimization and strict constraints on the movement distances. The second work related to the AirQo collaboration that started at the AI for Social Good seminar back in 2022, Ruby Sedgwick and me recruited an MEng student, Clara Stoddart, whose thesis was accepted into the "Tackling Climate Change with Machine Learning" workshop. The rest of the time I spent it exploring New Orelans, I loved the city and will definitely be visiting again. 
+
+Links to the papers can be found here:
+
+- Folch, Jose Pablo, James Odgers, Shiqiang Zhang, Robert M. Lee, Behrang Shafei, David Walz, Calvin Tsay, Mark van der Wilk, and Ruth Misener. "Practical Path-based Bayesian Optimization". NeurIPS 2023 Workshop on Adaptive Experimental Design and Active Learning in the Real World. [Link](https://openreview.net/forum?id=E8zSTm2bGu).
+
+- Stoddart, Clara, Lauren Shrack, Richard Sserunjogi, Usman Abdul-Ganiy, Engineer Bainomugisha, Deo Okure, Ruth Misener, Jose Pablo Folch, and Ruby Sedgwick. "Gaussian Processes for Monitoring Air-Quality in Kampala". NeurIPS 2023 Workshop: Tackling Climate Change with Machine Learning. [Link](https://arxiv.org/abs/2311.16625).
+
+
+<p align="center">
+  <img src="/assets/images/nips23_1.jpeg" width="400"/>
+  <img src="/assets/images/nips23_2.jpeg" width="400"/>
+</p>

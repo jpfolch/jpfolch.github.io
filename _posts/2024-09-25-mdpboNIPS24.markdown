@@ -1,0 +1,10 @@
+---
+layout: post
+title:  "Transition Constrained BO via MDPs accepted into NeurIPS 2024"
+date:   2024-09-25 12:03:52 +0100
+categories: seminar
+---
+
+Very excited that the work I started during my academic placement at ETH has been accepted to NeurIPS 2024! Very grateful to all my collaborators for all the effort put into this amazing paper.
+
+- Folch, Jose Pablo, Calvin Tsay, Robert M. Lee, Behrang Shafei, Weronika Ormaniec, Andreas Krause, Mark van der Wilk, Ruth Misener, and Mojmír Mutný. "Transition Constrained Bayesian Optimization via Markov Decision Processes". To appear in Neural Information Processing Systems 37 (2024). [Preprint](https://arxiv.org/abs/2402.08406).

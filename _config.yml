@@ -19,8 +19,8 @@
 # in the templates via {{ site.myvariable }}.
 
 title: Jose Pablo Folch
-email: "jpf16@imperial.ac.uk"
-description: I am currently  a PhD student at Imperial College London, working on Bayesian Optimization problems which are inspired by Chemistry Applications.
+email: "jose@solvechemistry.com"
+description: I am the chief scientific officer and co-founder of SOLVE chemistry. I am interested in the use of machine learning methods to improve the efficiency and sustainability of chemical processes.
 url: "https://jpfolch.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: folch_pablo
 github_username:  jpfolch
